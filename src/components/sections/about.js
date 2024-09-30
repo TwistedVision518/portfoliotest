@@ -135,21 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+            Hi there, my name is Pranav Praveen and I'm thrilled to share with you a little bit about myself and my passion for technology. At just 18 years old, I've already gained extensive experience in the field of IT and technology, and have become well-versed in Linux and networking. My journey with technology began at a young age, and I quickly fell in love with exploring the inner workings of computers and networks. I've always been fascinated by the power of technology to transform the world, and I'm committed to using my skills to make a positive impact. Over the years, I've gained a variety of technical skills, from programming and web development to database management and cybersecurity. I've also become a pro at troubleshooting, and I've tackled countless tech challenges with ease. In addition to my technical skills, I've also been recognized for my achievements in the field. I've been honored with several prizes and awards, including first place in a regional programming competition and recognition for my work on a project that used technology to address a social issue. I'm excited to continue exploring the world of technology, and I can't wait to see where my skills and passion take me next. Thank you for taking the time to learn a little bit about me, and I look forward to connecting with you soon. &amp; CSS!
             </p>
 
             <p>

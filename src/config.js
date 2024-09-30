@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'pranavpraveen0@gmail.com',
 
   socialMedia: [
     {
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/pranav-praveen-',
+      url: 'https://www.linkedin.com/in/pranavpraveen0',
     },
     {
       name: 'Codepen',
